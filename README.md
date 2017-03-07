@@ -1,6 +1,6 @@
 # Problem Solving
 
-Congratulations, you are one step closer to getting your issue resolved! Make sure you read about the [PreCourse problem solving process](process.md) beforehand.
+Congratulations, you are one step closer to getting your issue resolved! Make sure you are familiar with the [PreCourse problem solving process](process.md) before proceeding.
 
 ## How to use this repo
 
