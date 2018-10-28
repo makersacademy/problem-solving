@@ -18,6 +18,8 @@ You're going to become an expert in googling things. 90% of the time, you'll fin
 
 ### Step 3: Open a GitHub issue/Slack
 
+https://github.com/makersacademy/problem-solving/issues/new
+
 So couldn't find a solution to your problem or maybe you're unsure that you found the right one. That's fine, time to ask your cohort for help! Some of them might've stumbled upon something you haven't and maybe they'll have an answer for you. The way you go about it is to open a github issue here in this repo. Make sure you explain yourself clearly:
 
 - what’s the issue?
