@@ -30,6 +30,10 @@ Then, *and this is important*, anyone who wants to help, whether to suggest an a
 
 Any opened issue and following comments will be posted instantly on your cohort's slack channel, so everyone is kept in the loop.
 
-### Step 4: Reach out to your PreCourse coach
+### Step 4: Reach out to mechacoach!
 
-If everything else fails, and only then, reach out to a PreCourse coach via direct message on Slack. But a word of warning, don't be disappointed if the answer comes as more questions. :wink:
+If everything else fails, and only then, reach out to mechacoach. But a word of warning, don't be disappointed if the answer comes as more questions. 😉
+
+*How do I use it exactly?* Just write a normal message in your cohort channel and mention `@mechacoach` somewhere!
+
+*What does it do?* mechacoach is a slack userbot which listens for specifically `@mechacoach` mention events and then fires a request to our mechacoach app with the event data. The app then takes some of the data and forwards it to the channel #coaches where the coaching team will be monitoring it from **9:30am - 12:30pm.**
